@@ -1,0 +1,684 @@
+{
+    "regions": [
+        {
+            "region": "Szampania",
+            "latitude": 48.7472706,
+            "langitude": 3.4706431
+        },
+        {
+            "region": "Apulia",
+            "latitude": 41.0362727,
+            "langitude": 16.5879986
+        },
+        {
+            "region": "Kalifornia",
+            "latitude": 37.3286237,
+            "langitude": -120.0166874
+        },
+        {
+            "region": "Katalonia",
+            "latitude": 41.743156,
+            "langitude": 1.6368684
+        },
+        {
+            "region": "Alentejo",
+            "latitude": 38.4860426,
+            "langitude": -9.419237
+        },
+        {
+            "region": "Alzacja",
+            "latitude": 48.2433148,
+            "langitude": 6.21547
+        },
+        {
+            "region": "Cafayate",
+            "latitude": -26.0695347,
+            "langitude": -65.9857172
+        },
+        {
+            "region": "Veneto",
+            "latitude": 45.4822916,
+            "langitude": 11.5565806
+        },
+        {
+            "region": "Toskania",
+            "latitude": 43.3676865,
+            "langitude": 10.5175395
+        },
+        {
+            "region": "Uco Valley",
+            "latitude": -33.6137485,
+            "langitude": -69.2372829
+        },
+        {
+            "region": "Kreta",
+            "latitude": 35.2307954,
+            "langitude": 24.7721976
+        },
+        {
+            "region": "Kachetia",
+            "latitude": 41.8114139,
+            "langitude": 45.5078174
+        },
+        {
+            "region": "Galicja",
+            "latitude": 42.6680182,
+            "langitude": -8.1105148
+        },
+        {
+            "region": "Burgundia",
+            "latitude": 47.2723297,
+            "langitude": 2.8599922
+        },
+        {
+            "region": "Langwedocja (Languedoc)",
+            "latitude": 43.6487593,
+            "langitude": 1.9450885
+        },
+        {
+            "region": "Emiglia Romana",
+            "latitude": 44.5034419,
+            "langitude": 10.2187192
+        },
+        {
+            "region": "Sycylia",
+            "latitude": 37.6116798,
+            "langitude": 13.9074697
+        },
+        {
+            "region": "Lombardia",
+            "latitude": 45.6796644,
+            "langitude": 9.4764573
+        },
+        {
+            "region": "Western Cape",
+            "latitude": -33.2706405,
+            "langitude": 19.995281
+        },
+        {
+            "region": "Stellenbosch",
+            "latitude": -33.9571684,
+            "langitude": 18.7957615
+        },
+        {
+            "region": "Andaluzja",
+            "latitude": 37.3281817,
+            "langitude": -5.8984245
+        },
+        {
+            "region": "Dolina Loary",
+            "latitude": 47.5675239,
+            "langitude": 0.0341854
+        },
+        {
+            "region": "Burgenland",
+            "latitude": 47.4736559,
+            "langitude": 15.9178925
+        },
+        {
+            "region": "Frankonia",
+            "latitude": 49.4042185,
+            "langitude": 11.0476811
+        },
+        {
+            "region": "Umbria",
+            "latitude": 42.9513711,
+            "langitude": 12.2469688
+        },
+        {
+            "region": "Aragonia",
+            "latitude": 41.5744545,
+            "langitude": -0.969232
+        },
+        {
+            "region": "Piemont",
+            "latitude": 44.9744975,
+            "langitude": 7.5144514
+        },
+        {
+            "region": "Curico Valley",
+            "latitude": -35.054843,
+            "langitude": -71.2908259
+        },
+        {
+            "region": "Colchagua Valley",
+            "latitude": -34.7113948,
+            "langitude": -71.2154901
+        },
+        {
+            "region": "Rapel Valley",
+            "latitude": -33.9495172,
+            "langitude": -71.759321
+        },
+        {
+            "region": "Casablanca Valley",
+            "latitude": -33.3400567,
+            "langitude": -71.4328206
+        },
+        {
+            "region": "Leyda Valley",
+            "latitude": -33.6135734,
+            "langitude": -71.455264
+        },
+        {
+            "region": "Maipo Valley",
+            "latitude": -33.8090237,
+            "langitude": -70.7654921
+        },
+        {
+            "region": "Sardynia",
+            "latitude": 40.0818497,
+            "langitude": 8.3414871
+        },
+        {
+            "region": "Roussillon",
+            "latitude": 43.8989033,
+            "langitude": 5.2767672
+        },
+        {
+            "region": "Rioja",
+            "latitude": 42.2816834,
+            "langitude": -2.7368164
+        },
+        {
+            "region": "Ribera del Duero",
+            "latitude": 41.7274362,
+            "langitude": -3.7220628
+        },
+        {
+            "region": "Kastylia (Castilla y Leon)",
+            "latitude": 41.8240664,
+            "langitude": -4.9741505
+        },
+        {
+            "region": "Friuli",
+            "latitude": 46.187523,
+            "langitude": 12.8834986
+        },
+        {
+            "region": "Mendoza",
+            "latitude": -32.8817772,
+            "langitude": -68.8701751
+        },
+        {
+            "region": "Villanyi",
+            "latitude": 45.8643836,
+            "langitude": 18.4342307
+        },
+        {
+            "region": "Walencja",
+            "latitude": 39.4729604,
+            "langitude": -0.3975772
+        },
+        {
+            "region": "Trentino Alto Adige",
+            "latitude": 46.4344544,
+            "langitude": 11.0796005
+        },
+        {
+            "region": "Kamptal",
+            "latitude": 48.6183288,
+            "langitude": 15.5028293
+        },
+        {
+            "region": "Dolina Rodanu",
+            "latitude": 45.6182184,
+            "langitude": 5.5484097
+        },
+        {
+            "region": "Małopolska",
+            "latitude": 49.8604374,
+            "langitude": 19.9417118
+        },
+        {
+            "region": "Central Valley",
+            "latitude": 37.6057532,
+            "langitude": -120.2168483
+        },
+        {
+            "region": "Galilea",
+            "latitude": 32.6786766,
+            "langitude": 35.4332504
+        },
+        {
+            "region": "Nowa Południowa Walia",
+            "latitude": -32.4816882,
+            "langitude": 146.3303167
+        },
+        {
+            "region": "Abruzja",
+            "latitude": 42.284125,
+            "langitude": 13.6646315
+        },
+        {
+            "region": "Rheinhessen",
+            "latitude": 49.8630052,
+            "langitude": 8.1061137
+        },
+        {
+            "region": "Elqui Valley",
+            "latitude": -29.9218763,
+            "langitude": -70.9742104
+        },
+        {
+            "region": "Marchia",
+            "latitude": 43.5238334,
+            "langitude": 12.9227967
+        },
+        {
+            "region": "Murcja",
+            "latitude": 37.9805928,
+            "langitude": -1.1684608
+        },
+        {
+            "region": "Minho - Vinho Verde",
+            "latitude": 41.4172971,
+            "langitude": -8.4215929
+        },
+        {
+            "region": "Penedes",
+            "latitude": 41.364159,
+            "langitude": 1.6618234
+        },
+        {
+            "region": "Victoria",
+            "latitude": -37.0430153,
+            "langitude": 143.9864281
+        },
+        {
+            "region": "Douro",
+            "latitude": -38.1173593,
+            "langitude": 144.3436098
+        },
+        {
+            "region": "Bordeaux",
+            "latitude": 44.8432598,
+            "langitude": -0.5817006
+        },
+        {
+            "region": "Francja Południowo-Zachodnia",
+            "latitude": 43.931434,
+            "langitude": 3.9691929
+        },
+        {
+            "region": "Prowansja",
+            "latitude": 4.0478713,
+            "langitude": 5.6472156
+        },
+        {
+            "region": "Bekaa Valley",
+            "latitude": 34.0092516,
+            "langitude": 36.1390134
+        },
+        {
+            "region": "Kremstal",
+            "latitude": 47.9061714,
+            "langitude": 14.1208904
+        },
+        {
+            "region": "Marlborough",
+            "latitude": 51.4209039,
+            "langitude": -1.7430078
+        },
+        {
+            "region": "Weinland",
+            "latitude": 47.5198474,
+            "langitude": 16.24919
+        },
+        {
+            "region": "Kerry County",
+            "latitude": 52.129481,
+            "langitude": -9.9738365
+        },
+        {
+            "region": "Beaujolais",
+            "latitude": 46.0781633,
+            "langitude": 4.7033393
+        },
+        {
+            "region": "Owernia",
+            "latitude": 45.6198708,
+            "langitude": 2.449362
+        },
+        {
+            "region": "Kastylia-La Mancha",
+            "latitude": 39.388205,
+            "langitude": -3.5375706
+        },
+        {
+            "region": "Niederösterreich",
+            "latitude": 48.2901236,
+            "langitude": 15.4206559
+        },
+        {
+            "region": "Mozela-Saara-Ruwer",
+            "latitude": 49.5096857,
+            "langitude": 6.7187089
+        },
+        {
+            "region": "Korsyka",
+            "latitude": 42.0879332,
+            "langitude": 8.8987697
+        },
+        {
+            "region": "Riverina",
+            "latitude": -29.75688,
+            "langitude": 120.4912928
+        },
+        {
+            "region": "Kampania",
+            "latitude": 40.8826971,
+            "langitude": 14.5362611
+        },
+        {
+            "region": "lubuskie",
+            "latitude": 52.194604,
+            "langitude": 15.2002064
+        },
+        {
+            "region": "Eden Valley",
+            "latitude": 54.6988211,
+            "langitude": -2.6711085
+        },
+        {
+            "region": "Tokaj (Tokay-Hegyalja)",
+            "latitude": 48.112123,
+            "langitude": 21.3979845
+        },
+        {
+            "region": "Liguria",
+            "latitude": 44.3738282,
+            "langitude": 8.780729
+        },
+        {
+            "region": "Podkarpacie",
+            "latitude": 49.9727996,
+            "langitude": 22.0211046
+        },
+        {
+            "region": "Oregon",
+            "latitude": 43.8915163,
+            "langitude": -120.816401
+        },
+        {
+            "region": "Sud-Ouest",
+            "latitude": 44.5584096,
+            "langitude": 0.2950929
+        },
+        {
+            "region": "Macedonia-Tracja",
+            "latitude": 41.0006272,
+            "langitude": 23.9035503
+        },
+        {
+            "region": "Pfalz",
+            "latitude": 49.4612393,
+            "langitude": 7.8771639
+        },
+        {
+            "region": "Balaton",
+            "latitude": 46.8176498,
+            "langitude": 17.7029694
+        },
+        {
+            "region": "Kalabria",
+            "latitude": 38.0888456,
+            "langitude": 15.6534828
+        },
+        {
+            "region": "Sabaudia",
+            "latitude": 45.4919397,
+            "langitude": 6.4303731
+        },
+        {
+            "region": "Bairrada",
+            "latitude": 40.4767685,
+            "langitude": -8.6512898
+        },
+        {
+            "region": "Colchagua Costa",
+            "latitude": -34.5477974,
+            "langitude": -71.4026312
+        },
+        {
+            "region": "Island",
+            "latitude": 56.9251525,
+            "langitude": -6.2676122
+        },
+        {
+            "region": "Jura",
+            "latitude": 46.7587814,
+            "langitude": 5.664968
+        },
+        {
+            "region": "Płaskowyż Nałęczowski",
+            "latitude": 51.2891027,
+            "langitude": 22.0485855
+        },
+        {
+            "region": "Jerez",
+            "latitude": 36.6876383,
+            "langitude": -6.1436279
+        },
+        {
+            "region": "Carso",
+            "latitude": 45.7511041,
+            "langitude": 13.8841918
+        },
+        {
+            "region": "Peloponez",
+            "latitude": 37.3963865,
+            "langitude": 22.2190586
+        },
+        {
+            "region": "Szekszard",
+            "latitude": 46.3492843,
+            "langitude": 18.6486618
+        },
+        {
+            "region": "Lisboa",
+            "latitude": 38.7429425,
+            "langitude": -9.1910802
+        },
+        {
+            "region": "Central Otago",
+            "latitude": -45.11927,
+            "langitude": 169.2655983
+        },
+        {
+            "region": "Adelaide Hills",
+            "latitude": -34.8919241,
+            "langitude": 138.7841417
+        },
+        {
+            "region": "Morawy",
+            "latitude": 49.1897458,
+            "langitude": 16.5537418
+        },
+        {
+            "region": "Traisental",
+            "latitude": 48.1417795,
+            "langitude": 15.638634
+        },
+        {
+            "region": "Barossa Valley",
+            "latitude": -34.5331022,
+            "langitude": 138.9494298
+        },
+        {
+            "region": "Somló",
+            "latitude": 47.1471069,
+            "langitude": 17.365661
+        },
+        {
+            "region": "Nelson",
+            "latitude": 53.8361208,
+            "langitude": -2.224162
+        },
+        {
+            "region": "Kraj Basków",
+            "latitude": 43.0648552,
+            "langitude": -2.805205
+        },
+        {
+            "region": "Navarra",
+            "latitude": 42.6988049,
+            "langitude": -1.860405
+        },
+        {
+            "region": "Pannonhalma",
+            "latitude": 47.5507797,
+            "langitude": 17.738374
+        },
+        {
+            "region": "Estremadura",
+            "latitude": 39.3096317,
+            "langitude": -6.2073748
+        },
+        {
+            "region": "Sandomierskie",
+            "latitude": 50.683522,
+            "langitude": 21.7430423
+        },
+        {
+            "region": "Dolny Śląsk",
+            "latitude": 51.0428542,
+            "langitude": 16.6274613
+        },
+        {
+            "region": "Dão",
+            "latitude": 40.501664,
+            "langitude": -7.982895
+        },
+        {
+            "region": "Dalmacja",
+            "latitude": 43.5653142,
+            "langitude": 16.7687229
+        },
+        {
+            "region": "Półwysep Setubal",
+            "latitude": 38.5205924,
+            "langitude": -8.9301737
+        },
+        {
+            "region": "Kefalonia",
+            "latitude": 38.231617,
+            "langitude": 20.510753
+        },
+        {
+            "region": "Wzgórza Golan",
+            "latitude": 33.0165632,
+            "langitude": 35.5272883
+        },
+        {
+            "region": "Nitriansky Kraj",
+            "latitude": 48.1275649,
+            "langitude": 18.2772053
+        },
+        {
+            "region": "Styria",
+            "latitude": 47.312383,
+            "langitude": 14.877412
+        },
+        {
+            "region": "Teneryfa",
+            "latitude": 28.2948229,
+            "langitude": -16.699964
+        },
+        {
+            "region": "Valle Limarí",
+            "latitude": -30.555032,
+            "langitude": -71.1365599
+        },
+        {
+            "region": "Kastylia (Castilla y Leon), Galicja",
+            "latitude": 41.8936288,
+            "langitude": -5.0101072
+        },
+        {
+            "region": "Montevideo",
+            "latitude": -34.851325,
+            "langitude": -56.1988018
+        },
+        {
+            "region": "Canelones",
+            "latitude": -34.6165035,
+            "langitude": -56.1484788
+        },
+        {
+            "region": "McLaren Vale",
+            "latitude": -35.2117461,
+            "langitude": 138.5318082
+        },
+        {
+            "region": "Clare Valley",
+            "latitude": -33.8352979,
+            "langitude": 138.6071032
+        },
+        {
+            "region": "Lizbona",
+            "latitude": 38.733836,
+            "langitude": -9.1814164
+        },
+        {
+            "region": "Bazylikata",
+            "latitude": 40.2718843,
+            "langitude": 16.1582031
+        },
+        {
+            "region": "Cachapoal",
+            "latitude": -34.2678798,
+            "langitude": -70.9180117
+        },
+        {
+            "region": "Hawkes Bay",
+            "latitude": -39.4138079,
+            "langitude": 176.829786
+        },
+        {
+            "region": "Sopron",
+            "latitude": 47.6829508,
+            "langitude": 16.5832434
+        },
+        {
+            "region": "Podrawie",
+            "latitude": 52.8525017,
+            "langitude": 15.8404349
+        },
+        {
+            "region": "Molise",
+            "latitude": 41.6855952,
+            "langitude": 14.5935513
+        },
+        {
+            "region": "Eger",
+            "latitude": 47.9199918,
+            "langitude": 20.374296
+        },
+        {
+            "region": "Nahe",
+            "latitude": 53.7969095,
+            "langitude": 10.0933037
+        },
+        {
+            "region": "Wachau",
+            "latitude": 48.3896222,
+            "langitude": 15.4645685
+        },
+        {
+            "region": "Południowa Australia",
+            "latitude": -30.4311094,
+            "langitude": 134.4831008
+        },
+        {
+            "region": "Murcja, Yecla",
+            "latitude": 38.6136878,
+            "langitude": -1.129072
+        },
+        {
+            "region": "Yecla",
+            "latitude": 38.6136878,
+            "langitude": -1.129072
+        }
+    ]
+}
